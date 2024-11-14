@@ -66,7 +66,7 @@ This app is inspired from my older project But with upgraded error handling, cle
 
     
 **Version and there features**->
-1. Authentication features (visit here -> https://github.com/octoprakhar/MessagingApp2.0/tree/main/ClientSide/messagesendingapp/authentication)->
+1. Authentication features (visit here -> https://github.com/octoprakhar/MessagingApp2.0/tree/main/ClientSide/messagesendingapp/authentication  )->
    * This includes screens like registration and signIn.
    * Registration screen->
        - It first registers the user in Firebase authentication then firestore then local database.
