@@ -62,7 +62,7 @@ This app is inspired from my older project But with upgraded error handling, cle
         }
     }
     ```
-  * For more information regarding error handlling [visit here]([url](https://github.com/octoprakhar/MessagingApp2.0/tree/main/ClientSide/messagesendingapp/core/domain/util)).
+  * For more information regarding error handlling [visit here]((https://github.com/octoprakhar/MessagingApp2.0/tree/main/ClientSide/messagesendingapp/core/domain/util)).
 
     
 **Version and there features**->
