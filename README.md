@@ -71,4 +71,6 @@ This app is inspired from my older project But with upgraded error handling, cle
    * Registration screen->
        - It first registers the user in Firebase authentication then firestore then local database.
        - It handles the errors related to the Registration or network error using enum classes classes.
+   * Sign In screen ->
+         - It takes user email and password and verify it using firebase authentication. If successful then user will move to the "Conversation Screen" 
          
